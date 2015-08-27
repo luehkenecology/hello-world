@@ -1,0 +1,3 @@
+mtcars
+
+plot(mtcars$mpg)
